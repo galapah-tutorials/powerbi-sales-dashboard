@@ -1,0 +1,161 @@
+Workgroup;1111;Time period:;10/2019 - 09/2020;BAB-Version:;58;;;;;;
+Description:;Office Karlsruhe;;;Currency;EUR;;;;;;
+BL;Line;Brief description;Account;Account description;Rat. type;Month;Amount;Date;COST-date;Contra account;Contra account description
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;10/2019;10;10/2019;10/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;10/2019;10;10/2019;10/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;10/2019;10;10/2019;10/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;10/2019;10;10/2019;10/2019;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;10/2019;10;10/2019;10/2019;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2019;10;10/2019;10/2019;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2019;10;11/2019;11/2019;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2019;10;11/2019;11/2019;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2019;10;11/2019;11/2019;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2019;10;11/2019;11/2019;11111;Client04
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;11/2019;10;11/2019;11/2019;11111;
+;1020;Umsatzerlöse;4455;Erlöse Weiterberechn. Spesen 19%/16% USt;RWPRO;12/2019;10;12/2019;12/2019;11111;Client02
+;1020;Summe Kto. 4455;4455;Erlöse Weiterberechn. Spesen 19%/16% USt;;12/2019;10;12/2019;12/2019;11111;
+;1020;Summe 1020  10/2019;;;;12/2019;10;12/2019;12/2019;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;12/2019;10;12/2019;12/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;12/2019;10;12/2019;12/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;12/2019;10;12/2019;12/2019;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;01/2020;10;01/2020;01/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;02/2020;10;02/2020;02/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;02/2020;10;02/2020;02/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;02/2020;10;02/2020;02/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;02/2020;10;02/2020;02/2020;11111;Client02
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;02/2020;10;02/2020;02/2020;11111;
+;1020;Summe 1020  11/2019;;;;02/2020;10;02/2020;02/2020;11111;
+;1020;Umsatzerlöse;4335;Erlöse a.Lieferungen §13b (2) Nr.10 UStG;RWPRO;03/2020;10;03/2020;03/2020;11111;Client05
+;1020;Umsatzerlöse;4335;Erlöse a.Lieferungen §13b (2) Nr.10 UStG;RWPRO;03/2020;10;03/2020;03/2020;11111;Client05
+;1020;Summe Kto. 4335;4335;Erlöse a.Lieferungen §13b (2) Nr.10 UStG;;03/2020;10;03/2020;03/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;03/2020;10;03/2020;03/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;03/2020;10;03/2020;03/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;03/2020;10;03/2020;03/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;04/2020;10;04/2020;04/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;04/2020;10;04/2020;04/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;04/2020;10;04/2020;04/2020;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;04/2020;10;04/2020;04/2020;11111;Client04
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;04/2020;10;04/2020;04/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;04/2020;10;04/2020;04/2020;11111;Client06
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;05/2020;10;05/2020;05/2020;11111;
+;1020;Summe 1020  12/2019;;;;05/2020;10;05/2020;05/2020;11111;
+;1020;Summe 1020 WJ 2019;;;;05/2020;10;05/2020;05/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;05/2020;10;05/2020;05/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;05/2020;10;05/2020;05/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;05/2020;10;05/2020;05/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;05/2020;10;05/2020;05/2020;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;06/2020;10;06/2020;06/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;06/2020;10;06/2020;06/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;06/2020;10;06/2020;06/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;06/2020;10;06/2020;06/2020;11111;Client07
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;06/2020;10;06/2020;06/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;06/2020;10;06/2020;06/2020;11111;Client03
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;06/2020;10;06/2020;06/2020;11111;
+;1020;Summe 1020  01/2020;;;;06/2020;10;06/2020;06/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;06/2020;10;06/2020;06/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;06/2020;10;06/2020;06/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;07/2020;10;07/2020;07/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client08
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client07
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;07/2020;10;07/2020;07/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client03
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;07/2020;10;07/2020;07/2020;11111;Client04
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;07/2020;10;07/2020;07/2020;11111;
+;1020;Summe 1020  02/2020;;;;07/2020;10;07/2020;07/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;08/2020;10;08/2020;08/2020;11111;Client01
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;08/2020;10;08/2020;08/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;08/2020;10;08/2020;08/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client02
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client08
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client07
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client07
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;08/2020;10;08/2020;08/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client04
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;08/2020;10;08/2020;08/2020;11111;
+;1020;Summe 1020  03/2020;;;;08/2020;10;08/2020;08/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;08/2020;10;08/2020;08/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;08/2020;10;08/2020;08/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;08/2020;10;08/2020;08/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client04
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;09/2020;10;09/2020;09/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client03
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client04
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;09/2020;10;09/2020;09/2020;11111;
+;1020;Summe 1020  04/2020;;;;09/2020;10;09/2020;09/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;09/2020;10;09/2020;09/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;09/2020;10;09/2020;09/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client04
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;09/2020;10;09/2020;09/2020;11111;
+;1020;Summe 1020  05/2020;;;;09/2020;10;09/2020;09/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;09/2020;10;09/2020;09/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;09/2020;10;09/2020;09/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;09/2020;10;09/2020;09/2020;11111;Client10
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client03
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client04
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;10/2020;10;10/2020;10/2020;11111;
+;1020;Summe 1020  06/2020;;;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;10/2020;10;10/2020;10/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client10
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client03
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4735;Gewährte Skonti 16 % USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client06
+;1020;Summe Kto. 4735;4735;Gewährte Skonti 16 % USt;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4736;Gewährte Skonti 19 % USt;RWPRO;10/2020;10;10/2020;10/2020;11111;Client04
+;1020;Summe Kto. 4736;4736;Gewährte Skonti 19 % USt;;10/2020;10;10/2020;10/2020;11111;
+;1020;Summe 1020  07/2020;;;;10/2020;10;10/2020;10/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;11/2020;10;11/2020;11/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;11/2020;10;11/2020;11/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;11/2020;10;11/2020;11/2020;11111;
+;1020;Umsatzerlöse;4735;Gewährte Skonti 16 % USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Summe Kto. 4735;4735;Gewährte Skonti 16 % USt;;11/2020;10;11/2020;11/2020;11111;
+;1020;Summe 1020  08/2020;;;;11/2020;10;11/2020;11/2020;11111;
+;1020;Umsatzerlöse;4337;Erlöse aus Leistungen nach § 13b UStG;RWPRO;11/2020;10;11/2020;11/2020;11111;Client01
+;1020;Summe Kto. 4337;4337;Erlöse aus Leistungen nach § 13b UStG;;11/2020;10;11/2020;11/2020;11111;
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client11
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client03
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client09
+;1020;Umsatzerlöse;4450;Erlöse Dienstleistungen 19%/16% USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client03
+;1020;Summe Kto. 4450;4450;Erlöse Dienstleistungen 19%/16% USt;;11/2020;10;11/2020;11/2020;11111;
+;1020;Umsatzerlöse;4735;Gewährte Skonti 16 % USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Umsatzerlöse;4735;Gewährte Skonti 16 % USt;RWPRO;11/2020;10;11/2020;11/2020;11111;Client04
+;1020;Summe Kto. 4735;4735;Gewährte Skonti 16 % USt;;11/2020;10;11/2020;11/2020;11111;
+;1020;Summe 1020  09/2020;;;;11/2020;10;11/2020;11/2020;11111;
+;1020;Summe 1020 WJ 2020;;;;;;;;;
+;1020;Zeile 1020  gesamt;;;;;;;;;
